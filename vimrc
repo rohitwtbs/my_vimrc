@@ -46,3 +46,4 @@ autocmd VimEnter * NERDTree
 :set shortmess-=S
 set hlsearch
 set backspace=indent,eol,start
+let g:ackprg = 'ag'
