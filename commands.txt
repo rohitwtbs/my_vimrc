@@ -18,4 +18,16 @@ opening a new file side by side to compare two files
 
 
 
+* for creating file in nerd tree ":m"
+* for resizing partitions in vim
+
+* for copy and paste from clipboard
+   :set paste
+   ctr + shift + v
+* finding files through fzf
+   :Files
+   :Lines
+* opening file in split view
+   :sv
+* Search a sentence or occurence in the whole project in all files
 
