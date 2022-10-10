@@ -1,0 +1,21 @@
+copying from a file in vim and pasting in vim
+
+
+
+
+copying from clipboard and pasting it in vim
+
+
+
+copying from vim and pasting to clipboard
+
+
+
+
+opening a new file side by side to compare two files
+
+
+
+
+
+
